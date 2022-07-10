@@ -1,0 +1,11 @@
+{
+  "description": "Vall website",
+  "repo": "https://github.com/itsrival/itsrival.github.io",
+  "owner": {
+    "username": "itsrival",
+    "email": "zynfxapis@gmail.com"
+  },
+  "record": {
+    "CNAME": "itsrival.github.io"
+  }
+}
